@@ -23,4 +23,4 @@ services:
       - 27017
     volumes:
       - /var/www/db-on-host:/data/db
-    restart: always
+    restart: always 
